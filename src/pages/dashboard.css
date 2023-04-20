@@ -1,0 +1,796 @@
+.left-side1 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: 30px;
+  background-color: #000;
+}
+.contact-us,
+.help {
+  position: absolute;
+  left: 17.86%;
+  font-size: 14px;
+}
+.help {
+  top: 87.92%;
+}
+.contact-us {
+  top: 91.84%;
+}
+.settings {
+  position: absolute;
+  top: 43.64%;
+  left: 31.43%;
+}
+.users {
+  top: 37.08%;
+}
+.dashboard1,
+.schedules,
+.transactions,
+.users {
+  position: absolute;
+  left: 31.43%;
+}
+.schedules {
+  top: 30.51%;
+}
+.transactions {
+  top: 23.94%;
+}
+.dashboard1 {
+  top: 17.37%;
+}
+.dashboard-icon,
+.schedule-icon,
+.setting-icon {
+  position: absolute;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.transaction-icon {
+  height: 2.2%;
+  width: 6.43%;
+  top: 23.94%;
+  right: 75.71%;
+  bottom: 73.86%;
+  left: 17.86%;
+}
+.transaction-icon,
+.user-icon {
+  position: absolute;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.schedule-icon {
+  height: 2.07%;
+  width: 6.96%;
+  top: 30.64%;
+  right: 75.45%;
+  bottom: 67.29%;
+  left: 17.59%;
+}
+.dashboard-icon {
+  width: 6.43%;
+  top: 17.58%;
+  right: 75.71%;
+  bottom: 80.51%;
+}
+.dashboard-icon,
+.setting-icon,
+.user-icon {
+  height: 1.91%;
+  left: 17.86%;
+}
+.setting-icon {
+  width: 6.09%;
+  top: 43.86%;
+  right: 76.06%;
+  bottom: 54.24%;
+}
+.user-icon {
+  width: 6.43%;
+  top: 37.29%;
+  right: 75.71%;
+  bottom: 60.81%;
+}
+.board1,
+.navigation {
+  position: absolute;
+  top: 6.36%;
+  left: 17.86%;
+  font-size: 36px;
+}
+.navigation {
+  top: 40px;
+  left: 40px;
+  width: 280px;
+  height: 944px;
+  font-size: 18px;
+  color: #fff;
+}
+.card2,
+.card3 {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.card3 {
+  height: 100%;
+  width: 100%;
+  right: 0;
+  bottom: 0;
+  border-radius: 20px;
+  background-color: #f4ecdd;
+}
+.card2 {
+  width: 221.05px;
+  height: 120px;
+}
+.b,
+.total-transactions1 {
+  position: absolute;
+  left: 25.11px;
+  display: inline-block;
+}
+.total-transactions1 {
+  top: 45px;
+  width: 126px;
+}
+.b {
+  top: 67px;
+  font-size: 24px;
+  font-family: "Open Sans";
+  width: 65.26px;
+}
+.total-transactions {
+  position: absolute;
+  top: 129px;
+  left: 637.89px;
+  width: 221.05px;
+  height: 120px;
+  font-family: Lato;
+}
+.card5 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: 20px;
+  background-color: #ddefe0;
+}
+.b1,
+.total-revenues1 {
+  position: absolute;
+  left: 25px;
+  display: inline-block;
+  width: 124px;
+}
+.total-revenues1 {
+  top: 45px;
+}
+.b1 {
+  top: 67px;
+  font-size: 24px;
+  font-family: "Open Sans";
+}
+.vector-icon {
+  position: absolute;
+  height: 20%;
+  width: 11.94%;
+  top: 16.67%;
+  right: 11.6%;
+  bottom: 63.33%;
+  left: 76.45%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.total-revenues {
+  position: absolute;
+  top: 129px;
+  left: 380px;
+  width: 221.05px;
+  height: 120px;
+  font-family: Lato;
+}
+.card7 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: 20px;
+  background-color: #efdada;
+}
+.b2,
+.total-likes1 {
+  position: absolute;
+  display: inline-block;
+}
+.total-likes1 {
+  top: 45px;
+  left: 25.21px;
+  width: 81px;
+}
+.b2 {
+  top: 67px;
+  left: 25.58px;
+  font-size: 24px;
+  font-family: "Open Sans";
+  width: 65.26px;
+}
+.vector-icon1 {
+  position: absolute;
+  height: 20%;
+  width: 10.54%;
+  top: 16.67%;
+  right: 11.56%;
+  bottom: 63.33%;
+  left: 77.9%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.total-likes {
+  position: absolute;
+  top: 129px;
+  left: 895.79px;
+  width: 221.05px;
+  height: 120px;
+  font-family: Lato;
+}
+.card9 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: 20px;
+  background-color: #dee0ef;
+}
+.vector-icon2 {
+  position: absolute;
+  height: 20%;
+  width: 16.65%;
+  top: 16.67%;
+  right: 11.39%;
+  bottom: 63.33%;
+  left: 71.95%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.b3,
+.total-users1 {
+  position: absolute;
+  left: 25.58px;
+  display: inline-block;
+}
+.total-users1 {
+  top: 45px;
+  width: 85.26px;
+}
+.b3 {
+  top: 67px;
+  font-size: 24px;
+  font-family: "Open Sans";
+  width: 44.21px;
+}
+.total-users {
+  position: absolute;
+  top: 129px;
+  left: 1158.95px;
+  width: 221.05px;
+  height: 120px;
+  font-family: Lato;
+}
+.card10,
+.card11 {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.card11 {
+  height: 100%;
+  width: 100%;
+  right: 0;
+  bottom: 0;
+  border-radius: 20px;
+  background-color: #fff;
+}
+.card10 {
+  width: 1000px;
+  height: 359px;
+}
+.activities {
+  position: absolute;
+  color: #000;
+  text-align: left;
+  display: inline-block;
+}
+.guest {
+  top: 49px;
+  left: 808px;
+  font-size: 14px;
+  font-family: Lato;
+  color: #000;
+  width: 42px;
+}
+.guest,
+.may-june,
+.user {
+  position: absolute;
+  text-align: left;
+  display: inline-block;
+}
+.user {
+  top: 49px;
+  font-size: 14px;
+  font-family: Lato;
+  color: #000;
+  left: 906px;
+  width: 34px;
+}
+.activities,
+.may-june {
+  top: 30px;
+  left: 40px;
+  font-size: 18px;
+  font-family: Montserrat;
+  width: 93px;
+}
+.may-june {
+  top: 0;
+  left: 0;
+  font-size: 14px;
+  color: #858585;
+  width: 111px;
+}
+.vector-icon3 {
+  position: absolute;
+  height: 29.41%;
+  width: 6.45%;
+  top: 47.06%;
+  right: 0;
+  bottom: 23.53%;
+  left: 93.55%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.may-june-2021-parent {
+  position: absolute;
+  top: 57px;
+  left: 40px;
+  width: 124px;
+  height: 17px;
+}
+.div1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-size: 14px;
+  font-family: Lato;
+  color: #858585;
+  text-align: left;
+  display: inline-block;
+  width: 25.34px;
+}
+.group-child {
+  position: absolute;
+  top: 9.5px;
+  left: 39.5px;
+  border-top: 1px solid #eaeaea;
+  box-sizing: border-box;
+  width: 882px;
+  height: 1px;
+}
+.group,
+.parent {
+  position: absolute;
+  left: 0;
+}
+.parent {
+  top: 0;
+  width: 921px;
+  height: 17px;
+}
+.group {
+  top: 78px;
+}
+.container,
+.group,
+.group-div {
+  width: 921px;
+  height: 17px;
+}
+.container {
+  position: absolute;
+  top: 39px;
+  left: 0;
+}
+.group-div {
+  top: 117px;
+}
+.div6,
+.group-div,
+.parent1 {
+  position: absolute;
+  left: 0;
+}
+.parent1 {
+  top: 156px;
+  width: 921px;
+  height: 17px;
+}
+.div6 {
+  top: 0;
+  font-size: 14px;
+  font-family: Lato;
+  color: #858585;
+  text-align: left;
+  display: inline-block;
+  width: 9.12px;
+}
+.group-child2 {
+  top: 9.5px;
+  left: 22.27px;
+  border-top: 1px solid #eaeaea;
+  box-sizing: border-box;
+  width: 882px;
+  height: 1px;
+}
+.chart,
+.group-child2,
+.parent2 {
+  position: absolute;
+}
+.parent2 {
+  top: 195px;
+  left: 17.23px;
+  width: 903.77px;
+  height: 17px;
+}
+.chart {
+  top: 105px;
+  left: 40px;
+  width: 921px;
+  height: 212px;
+}
+.activities-card-child,
+.activities-card-item {
+  position: absolute;
+  top: 54px;
+  left: 787.53px;
+  width: 10px;
+  height: 10px;
+}
+.activities-card-item {
+  left: 885px;
+}
+.activities-card {
+  top: 289px;
+  left: 380px;
+  width: 1000px;
+  height: 359px;
+}
+.activities-card,
+.card12,
+.child {
+  position: absolute;
+}
+.card12 {
+  top: 0;
+  left: 0;
+  width: 480px;
+  height: 256px;
+}
+.child {
+  left: 0;
+  top: 3px;
+  width: 11px;
+  height: 11px;
+}
+.basic-tees {
+  top: 0;
+  left: 21px;
+}
+.basic-tees,
+.div7,
+.div8 {
+  position: absolute;
+}
+.div8 {
+  top: 22px;
+  left: 21px;
+  font-size: 12px;
+  font-family: Lato;
+  color: #858585;
+}
+.div7 {
+  top: 72px;
+  left: 244px;
+  width: 98px;
+  height: 36px;
+}
+.may-june1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: inline-block;
+  width: 97px;
+}
+.may-june-2021-wrapper {
+  position: absolute;
+  top: 31px;
+  left: 327px;
+  width: 97px;
+  height: 15px;
+  font-size: 12px;
+  color: #858585;
+}
+.vector-icon4 {
+  position: absolute;
+  height: 1.95%;
+  width: 1.67%;
+  top: 14.45%;
+  right: 8.96%;
+  bottom: 83.59%;
+  left: 89.38%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.div11,
+.div9 {
+  position: absolute;
+  left: 244px;
+  height: 36px;
+}
+.div9 {
+  top: 129px;
+  width: 168px;
+}
+.div11 {
+  top: 186px;
+  width: 128px;
+}
+.top-products {
+  position: absolute;
+  top: 30px;
+  left: 40px;
+  font-size: 18px;
+}
+.pie-chart-icon {
+  position: absolute;
+  top: 82px;
+  left: 60px;
+  width: 134px;
+  height: 134px;
+}
+.top-products-card {
+  position: absolute;
+  top: 688px;
+  left: 380px;
+  width: 480px;
+  height: 256px;
+}
+.todays-schedule {
+  position: absolute;
+  top: 30px;
+  left: 40px;
+  font-size: 18px;
+  color: #000;
+}
+.meeting-with-suppliers {
+  position: absolute;
+  top: 3px;
+  left: 15px;
+  font-size: 14px;
+  color: #666;
+}
+.div13 {
+  position: absolute;
+  top: 25px;
+  left: 15px;
+}
+.at-sunset-road,
+.group-child3 {
+  position: absolute;
+  top: 44px;
+  left: 15px;
+}
+.group-child3 {
+  top: -2.5px;
+  left: -2.5px;
+  border-right: 5px solid #9bdd7c;
+  box-sizing: border-box;
+  width: 5px;
+  height: 71px;
+}
+.meeting-with-suppliers-from-ku-parent {
+  position: absolute;
+  top: 77px;
+  left: 40px;
+  width: 251px;
+  height: 66px;
+  font-family: Lato;
+}
+.see-all {
+  position: absolute;
+  top: 34px;
+  left: 398px;
+  color: #858585;
+}
+.vector {
+  border: 0;
+  background-color: #858585;
+  position: absolute;
+  height: 1.95%;
+  width: 1.67%;
+  top: 17.97%;
+  right: 5.63%;
+  bottom: 80.08%;
+  left: 92.71%;
+  transform: rotate(-90deg);
+  transform-origin: 0 0;
+}
+.group-child4 {
+  position: absolute;
+  top: -2.5px;
+  left: -2.5px;
+  border-right: 5px solid #6972c3;
+  box-sizing: border-box;
+  width: 5px;
+  height: 71px;
+}
+.check-operation-at-giga-factor-parent {
+  position: absolute;
+  top: 156px;
+  left: 40px;
+  width: 227px;
+  height: 66px;
+  font-family: Lato;
+}
+.schedules-card {
+  position: absolute;
+  top: 688px;
+  left: 900px;
+  width: 480px;
+  height: 256px;
+  font-size: 12px;
+  color: #999;
+}
+.week-1,
+.week-2 {
+  position: absolute;
+  top: 0;
+}
+.week-1 {
+  left: 0;
+  font-family: Lato;
+}
+.week-2 {
+  left: 200px;
+}
+.chart-weeks,
+.week-3,
+.week-4 {
+  position: absolute;
+}
+.week-3 {
+  top: 0;
+  left: 400px;
+}
+.week-4 {
+  top: 0;
+  left: 600px;
+}
+.chart-weeks {
+  top: 604px;
+  left: 559px;
+  width: 648px;
+  height: 19px;
+  color: #858585;
+  font-family: "Open Sans";
+}
+.line-chart-1-icon,
+.line-chart-2-icon {
+  position: absolute;
+  left: 459px;
+}
+.line-chart-2-icon {
+  top: 424px;
+  width: 880.5px;
+  height: 98px;
+}
+.line-chart-1-icon {
+  top: 423.5px;
+  width: 879.5px;
+  height: 135px;
+}
+.total-transactions-icon {
+  position: absolute;
+  height: 2.34%;
+  width: 1.44%;
+  top: 14.55%;
+  right: 42.1%;
+  bottom: 83.11%;
+  left: 56.46%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.dashboard2 {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.mask-group-icon,
+.search-bar {
+  position: absolute;
+  top: 0;
+  height: 30px;
+}
+.search-bar {
+  left: 713px;
+  width: 180px;
+}
+.mask-group-icon {
+  left: 970px;
+  width: 30px;
+  object-fit: cover;
+}
+.vector-icon5 {
+  position: absolute;
+  height: 66.67%;
+  width: 1.8%;
+  top: 16.67%;
+  right: 5.9%;
+  bottom: 16.67%;
+  left: 92.3%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.header {
+  position: absolute;
+  top: 60px;
+  left: 380px;
+  width: 1000px;
+  height: 30px;
+  font-size: 24px;
+}
+.dashboard {
+  position: relative;
+  background-color: #f5f5f5;
+  width: 100%;
+  height: 1024px;
+  overflow: hidden;
+  text-align: left;
+  font-size: 14px;
+  color: #000;
+  font-family: Montserrat;
+}
+@media screen and (max-width: 1200px) {
+  .card10,
+  .card12,
+  .card2 {
+    transform: rotate(-150deg);
+    border-radius: 50px;
+  }
+}
